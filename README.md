@@ -9,3 +9,5 @@ Contents:
 - Canva Poster
 
 This assignment demonstrates my digital productivity and cyber safety skills.
+
+Updated with assignment files.
